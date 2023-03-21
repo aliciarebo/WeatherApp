@@ -75,3 +75,16 @@ img {
 .grado {
   font-size: 40px;
 }
+
+
+
+@media only screen and (max-width: 500px) {
+
+  .search {
+    padding: 16px 16px;
+  }
+
+  .header {
+    padding: 24px;
+  }
+}
